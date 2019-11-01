@@ -140,6 +140,8 @@ body{
 }
 
 
+
+
 /*设置content部分*/
 
 .content h1{
@@ -198,3 +200,12 @@ body{
 	display: inline;
 }
 
+.publicatins p{
+	line-height:3.5;
+}
+.publicatins li{
+	line-height:1.5;
+}
+.publicatins{
+	margin: 0 60px;
+}
